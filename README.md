@@ -150,7 +150,7 @@ Navigate to: <https://github.com/kataras/neffos.js>
 
 </details>
 
-Neffos contains extensive and thorough **[wiki](https://github.com/kataras/neffos/wiki)** making it easy to get started with the framework.
+Neffos contains extensive and thorough **[wiki](https://github.com/linbaozhong/neffos/wiki)** making it easy to get started with the framework.
 
 For a more detailed technical documentation you can head over to our [godocs](https://godoc.org/github.com/kataras/neffos). And for executable code you can always visit the [_examples](_examples/) repository's subdirectory.
 
